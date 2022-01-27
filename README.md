@@ -33,7 +33,6 @@ yarn build
 ```
 
 ## ⚙️ HEROKU Deployment
-Follow Strapi instruction for installation with postgree database. [Learn more]
-(https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#heroku-install-requirements)
+Follow Strapi instruction for installation with postgree database. [Learn more](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#heroku-install-requirements)
 
 
