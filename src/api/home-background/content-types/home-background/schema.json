@@ -4,7 +4,8 @@
   "info": {
     "singularName": "home-background",
     "pluralName": "home-backgrounds",
-    "displayName": "home"
+    "displayName": "home",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,15 +13,19 @@
   "pluginOptions": {},
   "attributes": {
     "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "titletext": {
+      "type": "string"
+    },
+    "altText": {
       "type": "string"
     }
   }
