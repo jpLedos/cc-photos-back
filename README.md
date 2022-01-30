@@ -26,8 +26,10 @@ yarn develop
 
 ** Record you content and enjoy **
 
-
+  
+# More informations ...
+  
 ##   HEROKU Deployment Follow Strapi instruction for installation with postgree database. [Learn more](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#heroku-install-requirements)
 
-##  ** Cloudinary ** for media [How to Build a Photo Gallery with Strapi, Nextjs and Cloudinary](https://strapi.io/blog/how-to-build-a-photo-gallery-with-strapi-nextjs-and-cloudinary)
+##  CLOUDINARY for media [How to Build a Photo Gallery with Strapi, Nextjs and Cloudinary](https://strapi.io/blog/how-to-build-a-photo-gallery-with-strapi-nextjs-and-cloudinary)
 
